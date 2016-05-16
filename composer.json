@@ -1,0 +1,6 @@
+{
+  "name": "sample/composer-exercise-3",
+  "require": {
+    "guzzlehttp/guzzle": "^6.2"
+  }
+}
